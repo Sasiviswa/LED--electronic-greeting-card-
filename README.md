@@ -23,6 +23,7 @@ A handmade greeting card designed using colourful paper, flowers, hearts, and an
 * Check the connections and switch on the circuit to make the LED glow.  
 * Fix the LED and wires neatly inside the card.  
 * Decorate the card with colourful paper designs and write the greeting message.
+*Simulation diagram:
 
 **WORKING**
 
