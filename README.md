@@ -24,7 +24,7 @@ A handmade greeting card designed using colourful paper, flowers, hearts, and an
 * Fix the LED and wires neatly inside the card.  
 * Decorate the card with colourful paper designs and write the greeting message.
 *Simulation diagram:
-
+![result](stimulation.jpg)
 **WORKING**
 
 When the battery is connected, electrical current flows through the circuit. The LED converts electrical energy into light energy, so the LED inside the paper flower glows. This gives the greeting card a simple electronic and decorative effect.
